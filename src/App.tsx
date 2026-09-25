@@ -7,7 +7,7 @@ export function App() {
     <div className="app">
       Яговкин my love
       <hr/>
-      <button onClick={() => {alert("U in love with Яговкин")}}>
+      <button onClick={() => {alert("U in love with Корней Яговкин")}}>
         Love
       </button>
     </div>
